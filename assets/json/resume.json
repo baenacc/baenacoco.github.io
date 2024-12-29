@@ -21,23 +21,10 @@
   },
   "work": [
     {
-      "name": "Accenture",
-      "position": "Technology Strategy Consultant",
-      "url": "",
-      "startDate": "2021-10-01",
-      "endDate": "Present",
-      "summary": "Contributed to the digital banking infrastructure for major corporate and personal channels.",
-      "highlights": [
-        "Led the technical team for large-scale AWS-hosted transaction projects.",
-        "Integrated advanced analytics solutions into a Fintech application for user behavior tracking."
-      ]
-    },
-    {
-      "name": "Corte Suprema de Justicia",
+      "name": "Corte Suprema de Justicia (Colombia)",
       "position": "Senior Software Engineer",
       "url": "",
-      "startDate": "2019-08-01",
-      "endDate": "2021-09-30",
+      "startDate": "2023-07-15",
       "summary": "Developed critical systems to improve accessibility and transparency in the judicial system.",
       "highlights": [
         "Implemented a full-text search service for judicial decisions.",
@@ -45,12 +32,24 @@
       ]
     },
     {
+      "name": "Accenture",
+      "position": "Technology Strategy Consultant",
+      "url": "http://accenture.com",
+      "startDate": "2021-10-01",
+      "endDate": "2023-07-15",
+      "summary": "Played a key role in designing and implementing scalable digital banking solutions, enhancing transaction systems for corporate and personal channels with a focus on efficiency and user experience.",
+      "highlights": [
+        "Led the technical team for large-scale AWS-hosted transaction projects.",
+        "Integrated advanced analytics solutions into a Fintech application for user behavior tracking."
+      ]
+    },
+    {
       "name": "Inter-American Development Bank",
       "position": "IT Consultant",
-      "url": "",
+      "url": "http://iadb.org",
       "startDate": "2020-01-01",
       "endDate": "2021-05-31",
-      "summary": "Analyzed open-source software for judicial system transformation.",
+      "summary": "Analyzed open-source software for judicial system transformation and implemented digital tools.",
       "highlights": [
         "Delivered a digital index project for court document management.",
         "Integrated modern software tools to enhance digital transformation."
@@ -117,11 +116,11 @@
   "references": [
     {
       "name": "Elizabeth Arciniegas",
-      "reference": "https://linkedin.com/in/elizabetharciniegasm"
+      "url": "https://linkedin.com/in/elizabetharciniegasm"
     },
     {
       "name": "Manuel Nuñez",
-      "reference": "https://linkedin.com/in/mjnunezt"
+      "url": "https://linkedin.com/in/mjnunezt"
     }
   ],
   "projects": [
