@@ -105,12 +105,16 @@
   ],
   "interests": [
     {
-      "name": "Cloud Architecture",
+      "name": "Cloud Architecture & Optimization",
       "keywords": ["Scalable Systems", "Cloud Optimization"]
     },
     {
-      "name": "User Analytics",
-      "keywords": ["Behavior Tracking", "Data Integration"]
+      "name": "User Analytics & Data Integration",
+      "keywords": ["User Behavior", "Data Integration"]
+    },
+    {
+      "name": "Entrepreneurial Thinking",
+      "keywords": ["Business Development", "Innovation"]
     }
   ],
   "references": [
