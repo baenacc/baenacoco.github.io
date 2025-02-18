@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: CV2025_Antonio_Baena.pdf
+description: Welcome to my professional portfolio. Here, you can explore my experience, skills, and projects as a Full Stack JavaScript Developer and AWS Architect. Feel free to navigate through the sections or download my resume for more details.
 toc:
   sidebar: left
 ---
