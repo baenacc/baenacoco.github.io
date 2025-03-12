@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Antonio Baena",
-    "label": "Full Stack JavaScript Developer - AWS Architect",
+    "label": "Software Architect and Cloud Security Specialist",
     "image": "",
     "email": "alvaro@baena.cc",
     "url": "https://linkedin.com/in/baenacc",
@@ -24,11 +24,16 @@
       "name": "Corte Suprema de Justicia (Colombia)",
       "position": "Senior Software Engineer",
       "url": "",
-      "startDate": "2023-07-15",
-      "summary": "Developed critical systems to improve accessibility and transparency in the judicial system.",
+      "startDate": "2024-07-01",
+      "summary": "Managing cloud and on-premise IT infrastructure, leading development teams, and implementing microservices-based architectures.",
       "highlights": [
-        "Implemented a full-text search service for judicial decisions.",
-        "Optimized document management systems for high courts."
+        "Managed on-premise virtual machines, primarily Ubuntu Server, handling setup, security, monitoring, and performance optimization.",
+        "Administered and maintained GitLab repositories, implementing CI/CD pipelines to streamline development workflows.",
+        "Led a development team to execute and deliver key projects for stakeholders within the Court.",
+        "Designed and implemented microservices-based architectures, ensuring scalability and maintainability.",
+        "Managed on-premise and Azure-hosted databases, optimizing performance and ensuring security, including SQL Server and Solr.",
+        "Developed and maintained applications using JavaScript, TypeScript, and other modern web technologies.",
+        "Designed and deployed cloud architectures on Azure, leveraging Azure Functions, Blob Storage, Communication Services, and Kubernetes (AKS)."
       ]
     },
     {
@@ -36,11 +41,12 @@
       "position": "Technology Strategy Consultant",
       "url": "http://accenture.com",
       "startDate": "2021-10-01",
-      "endDate": "2023-07-15",
-      "summary": "Played a key role in designing and implementing scalable digital banking solutions, enhancing transaction systems for corporate and personal channels with a focus on efficiency and user experience.",
+      "endDate": "2024-07-01",
+      "summary": "Led cloud migration strategies and large-scale banking implementations with AWS and React Native solutions.",
       "highlights": [
-        "Led the technical team for large-scale AWS-hosted transaction projects.",
-        "Integrated advanced analytics solutions into a Fintech application for user behavior tracking."
+        "Designed AWS-based banking software architecture for a major Guatemalan bank, implementing serverless computing and multi-account security layers.",
+        "Integrated Google Analytics and GA4 for user behavior tracking in a major Mexican Fintech’s React Native application.",
+        "Developed commercial proposals and led cloud strategy planning for payment industry companies in Colombia."
       ]
     },
     {
@@ -49,14 +55,27 @@
       "url": "http://iadb.org",
       "startDate": "2020-01-01",
       "endDate": "2021-05-31",
-      "summary": "Analyzed open-source software for judicial system transformation and implemented digital tools.",
+      "summary": "Led a microservices-based digital transformation for Colombia’s High Courts, enhancing judicial data security and accessibility.",
       "highlights": [
-        "Delivered a digital index project for court document management.",
-        "Integrated modern software tools to enhance digital transformation."
+        "Designed a Kubernetes and Moleculer.js microservices architecture for a judicial data management system.",
+        "Implemented encryption methods to safeguard judicial records and ensure compliance.",
+        "Developed APIs to enable seamless data exchange between judicial platforms."
+      ]
+    },
+    {
+      "name": "Freelance Consultant",
+      "position": "Founder & Software Engineer",
+      "url": "",
+      "startDate": "2018-02-01",
+      "endDate": "2020-06-30",
+      "summary": "Developed custom digital solutions for businesses, improving customer engagement and workflow automation.",
+      "highlights": [
+        "Designed and developed custom websites using React.js for various brands.",
+        "Built a Dance Revolution-style interactive game to enhance brand engagement.",
+        "Developed a React Native mobile app for service technicians, featuring dynamic forms, scheduling, and digital signatures."
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Universidad Nacional de Colombia",
@@ -68,7 +87,6 @@
       "courses": []
     }
   ],
-  "awards": [],
   "certificates": [
     {
       "title": "Introduction to Generative AI for Software Development",
@@ -80,17 +98,17 @@
     {
       "name": "Programming",
       "level": "Expert",
-      "keywords": ["JavaScript", "ReactJS/Native", "Node.js", "TypeScript"]
+      "keywords": ["JavaScript", "ReactJS/Native", "Node.js", "TypeScript", "Java"]
     },
     {
       "name": "Cloud Computing",
       "level": "Expert",
-      "keywords": ["AWS", "Docker", "Kubernetes"]
+      "keywords": ["AWS", "Azure", "Docker", "Kubernetes"]
     },
     {
       "name": "Development Tools",
       "level": "Advanced",
-      "keywords": ["Git/GitHub", "DevOps", "SQL/NoSQL"]
+      "keywords": ["Git/GitHub", "DevOps", "SQL/NoSQL", "GitLab CI/CD"]
     }
   ],
   "languages": [
@@ -115,34 +133,6 @@
     {
       "name": "Entrepreneurial Thinking",
       "keywords": ["Business Development", "Innovation"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Elizabeth Arciniegas",
-      "url": "https://linkedin.com/in/elizabetharciniegasm"
-    },
-    {
-      "name": "Manuel Nuñez",
-      "url": "https://linkedin.com/in/mjnunezt"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Supreme Search",
-      "summary": "Search service for Supreme Court decisions with advanced filters and public accessibility.",
-      "highlights": ["Optimized for different internet qualities.", "Deployed within 3 months."],
-      "startDate": "2018-02-01",
-      "endDate": "2019-09-30",
-      "url": "http://consultaprovidencias.cortesuprema.gov.co/busqueda"
-    },
-    {
-      "name": "SAMM Mobile App",
-      "summary": "Mobile application for real-time reporting and tracking.",
-      "highlights": ["Published on Play Store.", "Utilized React Native and Redux."],
-      "startDate": "2019-01-01",
-      "endDate": "2019-08-31",
-      "url": "https://play.google.com/store/apps/details?id=com.idaeapp.aplicacionreportar"
     }
   ]
 }
